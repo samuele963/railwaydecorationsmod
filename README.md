@@ -4,7 +4,7 @@
 This is a Minecraft mod dedicated to adding decorative blocks, such as signs, for building railway stations.
 
 ## Current and planned features
-At the moment the mod only includes signage blocks, for example platform, zone and exit signs and no entry signs,
+At the moment the mod only includes signage blocks, for example platform, zone and exit signs and "no entry" signs,
 as well as a "railway crafting item" used for crafting these blocks in Survival mode.
 
 In the future, I plan to add platform edge blocks, blocks for decorating station interiors (such as ticket machines) and different styles of signage, as well as some randomly generated structures such as abandoned train depots.
