@@ -14,10 +14,15 @@ In the future, I plan to add platform edge blocks, blocks for decorating station
 ![An in-game screenshot inside a railway station underpass, showcasing the signs indicating the platform numbers (1 and 2) and the signs pointing to the exit and the ticket machines.](https://samuele963.github.io/railwaydecorationsmod/screenshots/screenshot3.png)
 
 ## Downloads
-The latest version available is 1.0.0b; you can download it [here](releases/railway-decorations-1.0.0b.jar).
+The latest version available is 1.0.1; you can download it [here](releases/railway-decorations-1.0.1.jar).
 Older releases are available in the [releases folder](releases/).
 
 ## Changelog
+- Version 1.0.1
+  - Added alternate platform 1 sign crafting recipe
+  - Added metro entrance sign
+  - Added big ticket booth sign
+  - Added lines A and B directional signs
 - Version 1.0.0b
   - Updated the information data (URL, credits)
 - Version 1.0.0
